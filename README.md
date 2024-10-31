@@ -9,11 +9,8 @@ Sinta-se livre para entrar em contato comigo.
 
 ### Tecnologias que utilizo:
 
-![](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![](https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![](https://img.shields.io/badge/Microsoft_Azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white)
-![](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
+[![My Skills](https://skillicons.dev/icons?i=linux,python,aws,azure&theme=light)](https://skillicons.dev)
+
 
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fecamposx64&layout=compact)
